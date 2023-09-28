@@ -40,6 +40,10 @@ p{
     width:100px;
     height:100px;
 }
+
+.padding{
+    margin-left:10px;
+   margin-right: 50px;
 }
 
 
